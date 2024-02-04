@@ -1,2 +1,2 @@
-# Payment-Landing-Page
-Third-party payment landing webpage
+# Crypto-Landing-Page
+Cryptocurrency marketplace landing webpage
