@@ -1,2 +1,2 @@
-# Crypto-Landing-Page
-Cryptocurrency marketplace landing webpage
+# Crypto Marketplace
+Cryptocurrency marketplace multi-page frontend website
